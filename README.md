@@ -1,1 +1,1 @@
-# CreditRick---MBA
+# CreditRisk---MBA
